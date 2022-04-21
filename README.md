@@ -1,6 +1,6 @@
 # Loading Skeleton
 
-This is a flutter package that provides you a loading animated and customizable widget.
+This is a flutter package that provides you a loading animated and customizable widget.It is forked from loading_skeleton to implement null-safety and further development
 
 ## Installation
 
@@ -8,7 +8,7 @@ Here you will see everything you need to install and use this package.
 
 To install it, paste this code into your *pubspec.yaml* under dependencies:
 ```dart
-    loading_skeleton: 1.0.2
+    loading_skeleton_nium: 0.0.1
 ```
 and then run `flutter pub get` and that's it!
 
@@ -16,7 +16,7 @@ and then run `flutter pub get` and that's it!
 
 With **loading skeleton** all you need is set a width and a height:
 
-![Image](https://github.com/jpgpa/loading_skeleton_widget/blob/master/assets/Screenshot%202021-03-03%20at%2014.22.40.png)
+![Image](https://github.com/wekex35/loading_skeleton_widget/blob/master/assets/Screenshot%202021-03-03%20at%2014.22.40.png)
 
 and the result:
 
@@ -32,7 +32,7 @@ If you want to be more creative you can change more things like:
 
 Let's check an example that use all of this parameters:
 
-![Image](https://github.com/jpgpa/loading_skeleton_widget/blob/master/assets/Screenshot%202021-03-03%20at%2014.36.05.png)
+![Image](https://github.com/wekex35/loading_skeleton_widget/blob/master/assets/Screenshot%202021-03-03%20at%2014.36.05.png)
 
 and the result:
 
@@ -133,5 +133,3 @@ and the result:
 
 ![skeleton4](https://media.giphy.com/media/wyuUX0ZDP26VS2WmnH/giphy.gif)
 
-I hope you enjoyed it, feel free to contact me:
-josepedroalves100@gmail.com
