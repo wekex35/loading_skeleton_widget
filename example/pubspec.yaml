@@ -18,7 +18,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -30,7 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   loading_skeleton:
     git:
-      url: git://github.com/jpgpa/loading_skeleton_widget
+      url: https://github.com/wekex35/loading_skeleton_widget
       ref: master
 
 dev_dependencies:
